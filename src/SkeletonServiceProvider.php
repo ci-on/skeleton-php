@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton;
+namespace Cion\Skeleton;
 
 use Illuminate\Support\ServiceProvider;
 
